@@ -35,5 +35,5 @@ I started by checking if each character in the String is in the lower-case alpha
 If it was, I would replace the character with the corressponding character in a reversed alphabet String I created.  
 
 ```
-String revAlph = new String ("zywvutsrqponmlkjihgfedcba");
+String revAlph = new String ("zyxwvutsrqponmlkjihgfedcba");
 ```
