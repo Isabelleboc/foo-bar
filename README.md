@@ -5,16 +5,16 @@
 # Challenges 
 
 ## Level 1
-  i-love-lance-janice
+  - i-love-lance-janice
   
 ## Level 2
-  elevator-maintenance
-  \n lovely-lucky-lambs
+  - elevator-maintenance
+  - lovely-lucky-lambs
 
 ## Level 3
-  fuel-injection-perfection
-  bomb-baby
-  prepare-the-bunnies-escape
+  - fuel-injection-perfection
+  - bomb-baby
+  - prepare-the-bunnies-escape
   
 ## Level 4
   to do 
