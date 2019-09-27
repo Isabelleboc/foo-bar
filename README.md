@@ -5,7 +5,7 @@
 # Challenges 
 
 ## Level 1
-  - i-love-lance-janice
+  - [i-love-lance-janice](https://github.com/Isabelleboc/foo-bar/blob/master/Challenges/Level%201/i-love-lance-janice.java).
   
 ## Level 2
   - elevator-maintenance
