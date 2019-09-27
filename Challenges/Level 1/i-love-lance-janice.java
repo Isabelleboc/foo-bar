@@ -1,6 +1,6 @@
 public class Solution
 {
-  public static String solution(String s)
+  	public static String solution(String s)
 	{
 		String sol= new String("");  
 		String revAlph = new String ("zyxwvutsrqponmlkjihgfedcba");
