@@ -29,4 +29,5 @@ Inputs: (string) n = "15"
 I converted n to its binary representation, and looked at its least significant bits
 - If the least significant bit is zero, then divide the number by 2 (i.e the number is a power of 2)
 - If n is 3 or the least 2 significant bits are 01, then subtract 
-- In all other cases, add.
+- In all other cases, add.  
+I also used BigInteger to pass the test cases with much larger numbers.
